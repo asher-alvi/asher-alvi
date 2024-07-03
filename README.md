@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asher Alvi</h1>
 <h3 align="center">A passionate Software Engineering Student</h3>
-
-<img align="right" alt="coding" width="400" src="[https://www.google.com/imgres?q=coding%20gif&imgurl=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&docid=yLveTRy-Mho5UM&tbnid=RnccUrmnK1fJ1M&vet=12ahUKEwirg8GHxoWHAxViQ_UHHZoPBCMQM3oECE8QAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwirg8GHxoWHAxViQ_UHHZoPBCMQM3oECE8QAA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw1w5O2zUoLptB6da6TTdknv&ust=1719913195127000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJD19eTHhYcDFQAAAAAdAAAAABAE)"  >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asher-alvi&label=Profile%20views&color=0e75b6&style=flat" alt="asher-alvi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asher-alvi" alt="asher-alvi" /></a> </p>
-
+<img alt="image" width="400" src="https://www.google.com/imgres?q=coding%20gif&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2F3d-portrait-people_23-2150793856.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding-gif%2F4&docid=_vcBePxgKqgoRM&tbnid=Z_SRctb29dLUoM&vet=12ahUKEwiDuYvA74qHAxXMSmwGHeiKBf44ChAzegQIKBAA..i&w=626&h=351&hcb=2&ved=2ahUKEwiDuYvA74qHAxXMSmwGHeiKBf44ChAzegQIKBAA.gif">
 <p align="left"> <a href="https://twitter.com/imaalvi" target="blank"><img src="https://img.shields.io/twitter/follow/imaalvi?logo=twitter&style=for-the-badge" alt="imaalvi" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
