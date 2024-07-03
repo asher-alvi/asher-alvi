@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asher Alvi</h1>
 <h3 align="center">A passionate Software Engineering Student</h3>
-<img alt="image" width="400" src="https://www.google.com/imgres?q=coding%20gif&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2F3d-portrait-people_23-2150793856.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding-gif%2F4&docid=_vcBePxgKqgoRM&tbnid=Z_SRctb29dLUoM&vet=12ahUKEwiDuYvA74qHAxXMSmwGHeiKBf44ChAzegQIKBAA..i&w=626&h=351&hcb=2&ved=2ahUKEwiDuYvA74qHAxXMSmwGHeiKBf44ChAzegQIKBAA.gif">
+<img alt="image" width="400" align="right" src="https://github.com/asher-alvi/asher-alvi/blob/main/download.jpeg">
 <p align="left"> <a href="https://twitter.com/imaalvi" target="blank"><img src="https://img.shields.io/twitter/follow/imaalvi?logo=twitter&style=for-the-badge" alt="imaalvi" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
